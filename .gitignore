@@ -1,0 +1,9 @@
+*
+
+!/.gitignore
+!/*.md
+!/*_prod.ipynb
+!/*.png
+!/.python-version
+!/Data_git/
+!/Data_git/*

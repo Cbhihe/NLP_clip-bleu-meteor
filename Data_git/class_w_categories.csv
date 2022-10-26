@@ -1,0 +1,140 @@
+bear,animal,quadrupede,
+bird,animal,bird,
+butterfly,animal,bird,
+cat,animal,quadrupede,
+cow,animal,quadrupede,
+deer,animal,quadrupede,
+dog,animal,quadrupede,
+"donkey, ass",animal,quadrupede,
+dove,animal,bird,main_topic
+eagle,animal,bird,
+elephant,animal,quadrupede,
+fish,animal,marine,
+horse,animal,quadrupede,
+lion,animal,quadrupede,
+monkey,animal,bipede,
+mouse,animal,quadrupede,
+"rooster, cock",animal,bird,
+sea shell,animal,marine,
+serpent,animal,,
+sheep,animal,quadrupede,
+swan,animal,bird,
+zebra,animal,quadrupede,
+horn,animal,body part,
+wing,animal,body part,
+apple,fruit,,
+banana,fruit,,
+orange,fruit,,
+fountain,installation,,
+rock,geological element,,
+crucifixion,action,,main_topic
+prayer,action,,main_topic
+arrow,artefact,,
+banner,artefact,,
+boat,artefact,,
+book,artefact,,main_topic
+camauro,dress,,
+chalice,artefact,,
+cross,artefact,,main_topic
+crozier,artefact,,
+helmet,dress,,
+holy shroud,dress,,main_topic
+house,artefact,,
+jug,artefact,,
+"key of heaven, heavenly key, key",artefact,,main_topic
+"lance, spear",artefact,,
+scroll,artefact,,main_topic
+sculpture,artefact,,
+shield,artefact,,
+"sword, dagger, knife",artefact,,
+trumpet,artefact,,
+hand,human body part,body part,
+severed head,human body part,body part,main_topic
+skull,human body part,body part,
+crown,dress,,
+crown of thorns,dress,,
+halo,dress,,
+mitre,dress,,
+saturno,dress,,
+stole,dress,,
+tiara,dress,,
+zucchetto,dress,,
+bishop,person instance,,main_topic
+child,person instance,,main_topic
+fisherman,person instance,,main_topic
+hermit,person instance,,main_topic
+hunter,person instance,,main_topic
+judith,person instance,,main_topic
+king,person instance,,main_topic
+knight,person instance,,main_topic
+man,person instance,,main_topic
+monk,person instance,,main_topic
+nude,person instance,,main_topic
+nun,person instance,,main_topic
+peasant,person instance,,main_topic
+person,person instance,,main_topic
+pope,person instance,,main_topic
+queen,person instance,,main_topic
+shepherd,person instance,,main_topic
+woman,person instance,,main_topic
+angel,preternatural beings,human like,main_topic
+centaur,preternatural beings,human like,main_topic
+devil,preternatural beings,human like,main_topic
+dragon,preternatural beings,animal like,main_topic
+god the father,preternatural beings,human like,main_topic
+pegasus,preternatural beings,animal like,main_topic
+unicorn,preternatural beings,animal like,main_topic
+lily,vegetation,,
+palm,vegetation,,
+tree,vegetation,,
+table,furniture,,
+"seat, chair",furniture,,
+bedding,furniture,,
+#abraham,person instance,,main_topic
+#archangel,preternatural beings,human like,main_topic
+#archangel raphael,preternatural beings,human like,main_topic
+#artist,person instance,,
+#bed,artefact,,
+#broom,artefact,,
+#chair,artefact,,
+#clock,artefact,,
+#corpse,person instance,,main_topic
+#dwarf,person instance,,main_topic
+#eve,person instance,,main_topic
+#goat,animal,quadrupede,
+#goliath,person instance,,main_topic
+#gryphon,preternatural beings,animal like,main_topic
+#holofernes,person instance,,main_topic
+#hood,dress,,
+#jesus christ,person instance,,main_topic
+#john the baptist,person instance,,main_topic
+#lamb,animal,quadrupede,
+#mary magdalene,person instance,,main_topic
+#mirror,artefact,,
+#phoenix,animal,bird,
+#ram,animal,quadrupede,
+#rhino,animal,quadrupede,
+#saint anthony of padua,person instance,,main_topic
+#saint george,person instance,,main_topic
+#saint john evangelist,person instance,,main_topic
+#saint luke,person instance,,main_topic
+#saint mark,person instance,,main_topic
+#saint matthew,person instance,,main_topic
+#saint paul,person instance,,main_topic
+#saint peter,person instance,,main_topic
+#saint seBastian,person instance,,main_topic
+#saint veronica,person instance,,main_topic
+#samurai,person instance,,main_topic
+#siren,preternatural beings,human like,main_topic
+#st anthony of padua,person instance,,main_topic
+#st francis of assissi,person instance,,main_topic
+#st gabriel,person instance,,main_topic
+#st jerome,person instance,,main_topic
+#st Joseph,person instance,,main_topic
+#st lawrence,person instance,,main_topic
+#tobias,person instance,,main_topic
+#train,action,,
+#vase,artefact,,
+#virgin mary,person instance,,main_topic
+#wig,dress,,
+#witch,person instance,,main_topic
