@@ -171,4 +171,4 @@ Jupyter environment requirements include:
 
     $ jupyter notebook 01_clip_cpu_classify
 
-may fail under Pyenv with a "Segmentation fault". It is likely an iPython issue related to jupyter. To avoid it, launch either notebook from a more recent python version, and select iyour custom built 3.7.1 iPython kernel from the notebook at first launch.
+may fail under Python 3.7.1 with a "Segmentation fault". It is likely an iPython issue related to jupyter for this specfic Python version. To avoid it, launch the notebook from a more recent python version, and select the custom built 3.7.1 iPython kernel from within the notebook at first launch.
