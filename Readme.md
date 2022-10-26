@@ -55,7 +55,7 @@ Given a digitized image, CLIP claims it can predict the most relevant related ca
 ***References:***<BR>
 [1]   Reshetnikov A., Marinescu MC., More Lopez J.,  DEArt: Dataset of European Art (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6984525 (Oct. 2022).
 
-[2]  Reshetnikov A., More Lopez J. and Marinescu MC., A faster RCNN transfer learning model trained on the DEArt dataset of paintings from the12th to 18th European century period. Private communication (Oct 2022)
+[2]  Reshetnikov A. A faster RCNN transfer learning model trained on the DEArt dataset of paintings from the12th to 18th European century period. Private communication (Oct. 2022)
 
 
 ### Licensing terms and copyright
